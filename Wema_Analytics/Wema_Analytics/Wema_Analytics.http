@@ -1,0 +1,6 @@
+@Wema_Analytics_HostAddress = http://localhost:5152
+
+GET {{Wema_Analytics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

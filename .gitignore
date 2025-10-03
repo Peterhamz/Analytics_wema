@@ -1,0 +1,7 @@
+# Visual Studio cache / temp files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vscode/
